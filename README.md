@@ -25,27 +25,20 @@
 
 ### About
 
-I'm Max. I build Android apps, license panels and small stores, and I care a lot about how things look and feel, not only whether they work. Most of what's here started as something I wanted for myself and then turned into a proper project.
+I'm Max. I build Android apps, license panels and small stores, and I care about how things look and feel, not only whether they work. Most of what's here started as something I wanted for myself and turned into a proper project.
 
-I mostly work with Node.js, Kotlin, Next.js and PHP, and I deploy on Vercel, Netlify and Google Cloud.
-
-### What I've shipped
-
-| Project | What it is | Built with |
-|---|---|---|
-| **MAX STUDIO** | Music app. Listen to songs, with a listen-together mode. | Android, Cloudflare |
-| **AIRFLIX** | Movie app with a clean, fast interface. | Android |
-| **MAX STORE** | Store for selling XML / ZIP edit projects over UPI. | PHP, SQLite |
-| **MAX APK STORE** | Upload and share APKs with screenshots, view and install counts. | Node.js |
-| **MAX OWN Panel** | Key and license panel. Referral-only signup, glass UI. | Node.js |
-| **IDIZAAM** | License management panel with an API. | Node, Express, MySQL |
-| **MAX AI** | AI chat app for Android with a dynamic-island style UI. | Next.js, Capacitor |
+I mostly work with Node.js, Kotlin, Next.js and PHP, and deploy on Vercel, Netlify, Cloudflare and Google Cloud.
 
 ### Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,js,ts,nodejs,express,react,nextjs,php,html,css,tailwind&perline=13" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,redis,firebase,vercel,netlify,cloudflare,gcp,docker,git,github&perline=13" />
+  <img src="./assets/stack.svg" alt="Tech stack" width="100%" />
+</div>
+
+### Projects
+
+<div align="center">
+  <img src="./assets/projects.svg" alt="Projects: MAX STUDIO, AIRFLIX, MAX STORE, MAX APK STORE, MAX OWN Panel, IDIZAAM, MAX AI" width="100%" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
@@ -58,18 +51,18 @@ I mostly work with Node.js, Kotlin, Next.js and PHP, and I deploy on Vercel, Net
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kryvexo/kryvexo/output/github-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/kryvexo/kryvexo/output/github-snake-dark.svg" />
 </picture>
-</div>
 
-<div align="center">
-  <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
+<img src="./assets/activity.svg" alt="Contribution activity" width="100%" />
+
+<img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
+
+<img src="./assets/recent.svg" alt="Recent activity" width="100%" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
 
 <div align="center">
-
-If something I made saved you time, or you just like it, you can [buy me a coffee on Ko-fi](https://ko-fi.com/maxown).
-
-<a href="https://ko-fi.com/maxown"><img src="https://img.shields.io/badge/Support_on_Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-
+  <a href="https://ko-fi.com/maxown"><img src="./assets/support.svg" alt="Support on Ko-fi" width="760" /></a>
 </div>
+
+<img src="./assets/footer.svg" width="100%" alt="" />
