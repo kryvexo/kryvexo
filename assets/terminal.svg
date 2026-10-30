@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 503" width="900" height="503" role="img" aria-label="terminal running max.ts" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace">
+<defs>
+<linearGradient id="tb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#150d26"/><stop offset="1" stop-color="#090512"/></linearGradient>
+<linearGradient id="pg" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<clipPath id="c0"><rect x="30" y="45" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.0250;0.0792;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="30" y="72" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.1000;0.1188;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="30" y="99" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.1237;0.1425;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="30" y="126" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.1475;0.1663;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="30" y="153" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.1713;0.1900;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="30" y="180" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.1950;0.2138;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="30" y="234" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.2313;0.2854;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c8"><rect x="30" y="261" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.3063;0.3271;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c9"><rect x="30" y="288" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.3417;0.3625;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c10"><rect x="30" y="315" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.3771;0.3979;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c11"><rect x="30" y="342" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.4125;0.4333;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c12"><rect x="30" y="369" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.4479;0.4688;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c13"><rect x="30" y="396" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.4833;0.5042;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c14"><rect x="30" y="423" width="0" height="26"><animate attributeName="width" values="0;0;840;840;0" keyTimes="0;0.5187;0.5396;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="503" rx="14" fill="url(#tb)" stroke="#a78bfa" stroke-opacity="0.3"/>
+<path d="M0 14a14 14 0 0 1 14-14h872a14 14 0 0 1 14 14v26H0z" fill="#fff" fill-opacity="0.045"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="46" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+<text x="450.0" y="25" text-anchor="middle" font-size="12" fill="#a1a1aa">max@own: ~/profile</text>
+<text clip-path="url(#c0)" x="30" y="64" font-size="15" font-weight="700" xml:space="preserve"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">cat deploy.ts</tspan></text>
+<text clip-path="url(#c1)" x="30" y="91" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#f472b6">import </tspan><tspan fill="#e5e7eb">{ ship } </tspan><tspan fill="#f472b6">from </tspan><tspan fill="#fde68a">"@max/core"</tspan><tspan fill="#e5e7eb">;</tspan></text>
+<text clip-path="url(#c2)" x="30" y="118" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#f472b6">type </tspan><tspan fill="#7dd3fc">App </tspan><tspan fill="#e5e7eb">= { name: </tspan><tspan fill="#7dd3fc">string</tspan><tspan fill="#e5e7eb">; target: </tspan><tspan fill="#7dd3fc">Target</tspan><tspan fill="#e5e7eb"> };</tspan></text>
+<text clip-path="url(#c3)" x="30" y="145" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#71717a">// every app, one pipeline</tspan></text>
+<text clip-path="url(#c4)" x="30" y="172" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#f472b6">const </tspan><tspan fill="#7dd3fc">apps</tspan><tspan fill="#e5e7eb">: App[] = </tspan><tspan fill="#f472b6">await </tspan><tspan fill="#c084fc">load</tspan><tspan fill="#e5e7eb">(</tspan><tspan fill="#fde68a">"./apps.json"</tspan><tspan fill="#e5e7eb">);</tspan></text>
+<text clip-path="url(#c5)" x="30" y="199" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#f472b6">await </tspan><tspan fill="#7dd3fc">Promise</tspan><tspan fill="#e5e7eb">.</tspan><tspan fill="#c084fc">all</tspan><tspan fill="#e5e7eb">(apps.</tspan><tspan fill="#c084fc">map</tspan><tspan fill="#e5e7eb">(a =&gt; </tspan><tspan fill="#c084fc">ship</tspan><tspan fill="#e5e7eb">(a)));</tspan></text>
+<text clip-path="url(#c7)" x="30" y="253" font-size="15" font-weight="700" xml:space="preserve"><tspan fill="#71717a">$ </tspan><tspan fill="#e5e7eb">npx tsx deploy.ts</tspan></text>
+<text clip-path="url(#c8)" x="30" y="280" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#7dd3fc">[build] </tspan><tspan fill="#e5e7eb">resolving apps, bundling assets</tspan></text>
+<text clip-path="url(#c9)" x="30" y="307" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#c084fc">[ship ] </tspan><tspan fill="#e5e7eb">MAX STUDIO  </tspan><tspan fill="#71717a">-&gt; cloudflare edge   </tspan><tspan fill="#86efac">ok</tspan></text>
+<text clip-path="url(#c10)" x="30" y="334" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#c084fc">[ship ] </tspan><tspan fill="#e5e7eb">AIRFLIX      </tspan><tspan fill="#71717a">-&gt; android release   </tspan><tspan fill="#86efac">ok</tspan></text>
+<text clip-path="url(#c11)" x="30" y="361" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#c084fc">[ship ] </tspan><tspan fill="#e5e7eb">IDIZAAM      </tspan><tspan fill="#71717a">-&gt; vercel prod       </tspan><tspan fill="#86efac">ok</tspan></text>
+<text clip-path="url(#c12)" x="30" y="388" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#c084fc">[ship ] </tspan><tspan fill="#e5e7eb">MAX APK STORE </tspan><tspan fill="#71717a">-&gt; vercel prod      </tspan><tspan fill="#86efac">ok</tspan></text>
+<text clip-path="url(#c13)" x="30" y="415" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#86efac">[done ] </tspan><tspan fill="#e5e7eb">all targets deployed</tspan></text>
+<text clip-path="url(#c14)" x="30" y="442" font-size="15" font-weight="400" xml:space="preserve"><tspan fill="#f472b6">&gt; </tspan><tspan fill="#e5e7eb">next build loading</tspan></text>
+<rect x="250" y="430" width="220" height="8" rx="4" fill="#ffffff" fill-opacity="0.08"/>
+<rect x="250" y="430" width="0" height="8" rx="4" fill="url(#pg)"><animate attributeName="width" values="0;0;220;220;0" keyTimes="0;0.5396;0.6312;0.9500;1" dur="24.0s" repeatCount="indefinite"/></rect>
+<text x="482" y="442" font-size="13" fill="#86efac" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.6312;0.6352;0.9500;1" dur="24.0s" repeatCount="indefinite"/>100%</text>
+<rect x="30" y="455" width="9" height="18" fill="#c084fc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" role="img" aria-label="GitHub stats for kryvexo" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0a1c"/><stop offset="1" stop-color="#160a28"/></linearGradient><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="900" height="270" rx="14" fill="url(#bg)" stroke="#a78bfa" stroke-opacity="0.28"/>
+<text x="32" y="44" font-size="16" font-weight="700" fill="#e9d5ff">GitHub, in numbers</text>
+<rect x="32" y="54" width="60" height="3" rx="1.5" fill="url(#ln)"/>
+<text x="32" y="96" font-size="14" fill="#a1a1aa">Repositories</text>
+<text x="250" y="96" font-size="16" font-weight="700" fill="#f5f3ff" text-anchor="end">--</text>
+<text x="32" y="128" font-size="14" fill="#a1a1aa">Stars earned</text>
+<text x="250" y="128" font-size="16" font-weight="700" fill="#f5f3ff" text-anchor="end">--</text>
+<text x="32" y="160" font-size="14" fill="#a1a1aa">Commits</text>
+<text x="250" y="160" font-size="16" font-weight="700" fill="#f5f3ff" text-anchor="end">--</text>
+<text x="32" y="192" font-size="14" fill="#a1a1aa">Pull requests</text>
+<text x="250" y="192" font-size="16" font-weight="700" fill="#f5f3ff" text-anchor="end">--</text>
+<text x="32" y="224" font-size="14" fill="#a1a1aa">Followers</text>
+<text x="250" y="224" font-size="16" font-weight="700" fill="#f5f3ff" text-anchor="end">--</text>
+<text x="330" y="44" font-size="16" font-weight="700" fill="#e9d5ff">Languages</text>
+<rect x="330" y="54" width="60" height="3" rx="1.5" fill="url(#ln)"/>
+<rect x="330" y="76" width="540" height="12" rx="6" fill="#ffffff" fill-opacity="0.06"/>
+<text x="330" y="130" font-size="14" fill="#71717a">Stats refresh automatically every few hours.</text>
+</svg>
